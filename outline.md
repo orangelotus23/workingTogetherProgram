@@ -156,9 +156,9 @@ wouldn’t you?
 ---
 
 **Next Steps**  
-3. **Draft a Lesson**: Fully flesh out one lesson to test the format and refine the structure.
-4. **Delivery Planning**: Determine the best initial format (e.g., small group, workshop, or digital module).
-5. **Collaborate on Coloring Sheets**: Reach out to a friend or artist to create line art for the coloring sheets associated with each lesson.
+3. ***Draft a Lesson***: Fully flesh out one lesson to test the format and refine the structure.
+4. ***Delivery Planning***: Determine the best initial format (e.g., small group, workshop, or digital module).
+5. ***Collaborate on Coloring Sheets***: Reach out to a friend or artist to create line art for the coloring sheets associated with each lesson.
 ---
 
 This document provides a comprehensive summary of today’s brainstorm and serves as a roadmap for moving forward with the project.
