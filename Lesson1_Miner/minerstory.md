@@ -70,7 +70,7 @@ This story is designed to explore the themes of **patience** and **self-control*
 ---
 
 ## **Craft Activity**
-- **Create a Lantern**: Students decorate a paper lantern and write inside, *“What lights your way?”*
+- **Create a Lantern**: Students decorate a (paper lantern)[https://www.firstpalette.com/craft/paper-lantern.html] and write inside, *“What lights your way?”*
 - **Discussion Prompt**: "What does patience and self-control mean to you? How can you show those values in your life?"
 
 ---
