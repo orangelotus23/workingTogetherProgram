@@ -155,11 +155,6 @@ wouldn’t you?
 
 ---
 
-**License**
-This work is licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt this material, even for commercial purposes, provided you give appropriate credit. To view a copy of this license, visit [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
-
----
-
 **Next Steps**
 1. **Workshop the Theme Name**: Develop a title that captures the essence of the unit’s focus without directly replicating "dignity of work."
 2. **Brainstorm Additional Stories**: Identify characters and themes for the remaining four lessons.
